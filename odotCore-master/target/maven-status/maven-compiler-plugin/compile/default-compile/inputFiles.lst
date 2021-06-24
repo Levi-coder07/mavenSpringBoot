@@ -1,0 +1,11 @@
+D:\importar\odotCore-master\src\main\java\com\makotojava\learn\odot\model\AbstractEntity.java
+D:\importar\odotCore-master\src\main\java\com\makotojava\learn\odot\model\Category.java
+D:\importar\odotCore-master\src\main\java\com\makotojava\learn\odot\model\Item.java
+D:\importar\odotCore-master\src\main\java\com\makotojava\learn\odot\service\CategoryService.java
+D:\importar\odotCore-master\src\main\java\com\makotojava\learn\odot\config\AbstractApplicationConfiguration.java
+D:\importar\odotCore-master\src\main\java\com\makotojava\learn\odot\config\DatabaseConfiguration.java
+D:\importar\odotCore-master\src\main\java\com\makotojava\learn\odot\dao\ItemDao.java
+D:\importar\odotCore-master\src\main\java\com\makotojava\learn\odot\service\ItemService.java
+D:\importar\odotCore-master\src\main\java\com\makotojava\learn\odot\dao\CategoryDao.java
+D:\importar\odotCore-master\src\main\java\com\makotojava\learn\odot\exception\ServiceException.java
+D:\importar\odotCore-master\src\main\java\com\makotojava\learn\odot\exception\EntityPersistenceException.java
